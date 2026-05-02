@@ -1,0 +1,27 @@
+name: Update Content Calendar ICS                                   
+  on:                                                               
+    workflow_dispatch:                                                
+      inputs:         
+        ics_b64:                                                      
+          description: 'Base64-encoded ICS content'                 
+          required: true                           
+          type: string                                                
+  jobs:               
+    update:                                                           
+      runs-on: ubuntu-latest                                        
+      permissions:                       
+        contents: write
+      steps:                                                          
+        - uses: actions/checkout@v4
+        - name: Write calendar.ics                                    
+          env:                                                      
+            ICS_B64: ${{ github.event.inputs.ics_b64 }}
+          run: printf '%s' "$ICS_B64" | base64 -d > calendar.ics
+        - name: Commit and push                                       
+          run: |                                                      
+            git config user.email "jarvis@runningsociety.de"          
+            git config user.name "rs-jarvis"                          
+            git add calendar.ics                                      
+            git diff --cached --quiet || git commit -m "Update 
+  calendar.ics $(date '+%Y-%m-%d %H:%M')"                             
+            git push  
