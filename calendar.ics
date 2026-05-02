@@ -1,5 +1,327 @@
-  BEGIN:VCALENDAR                                                     
-  VERSION:2.0                                                       
-  PRODID:-//Running Society//Content Calendar//DE
-  X-WR-CALNAME:RS Content Plan                   
-  END:VCALENDAR         
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Running Society//Content Calendar//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RS Content Plan
+X-WR-CALDESC:Running Society Content-Kalender
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:rs-001@runningsociety.de
+DTSTART:20260504T063000
+DTEND:20260504T053000
+SUMMARY:[REEL] RS Fight Recap · instagram\, tiktok
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: Wenn du gestern no
+ ch gedacht hast\, du schaffst das nicht — was sagst du heute?\\nNotes: 
+ Bild/Video: Schnittsequenz der Session\, Close-ups Gesichter + Füße\, k
+ urzes Interview mit 1–2 Teilnehmern.\nCTA: Nächste Session verlinken /
+  Link in Bio
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-002@runningsociety.de
+DTSTART:20260505T200000
+DTEND:20260505T190000
+SUMMARY:[STORY] Wöchentliches PR-Board · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Text-Overlay auf d
+ unklem Hintergrund: Namen + neue Bestzeiten der Woche\\nNotes: Format: Sc
+ hwarzer BG\, gelbe Akzente\, 1 Slide pro PR.\nZiel: UGC-Anreiz — Member
+ s teilen ihre PR
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-003@runningsociety.de
+DTSTART:20260506T063000
+DTEND:20260506T053000
+SUMMARY:[REEL] Training-Tipp: Armhaltung Sprint · instagram\, tiktok
+DESCRIPTION:Pillar: MASTERY\\nStatus: planned\\nHook: Deine Arme entscheid
+ en über dein Tempo. Nicht die Beine.\\nNotes: Bild/Video: Seitlicher Ver
+ gleich — falsche vs. richtige Armhaltung\, 30 Sek.\nCTA: Speichern für
+  dein nächstes Training
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-004@runningsociety.de
+DTSTART:20260507T180000
+DTEND:20260507T170000
+SUMMARY:[CAROUSEL] 5 Gründe: Gruppe macht schneller · instagram\, linked
+ in
+DESCRIPTION:Pillar: MASTERY\\nStatus: planned\\nHook: Slide 1: Du läufst 
+ alleine. Du läufst langsamer. Das ist keine Meinung.\\nNotes: 5 Slides: 
+ Pacing / Drafting / Psychologie / Accountability / Peer-Push.\nZiel: Save
+ s + Shares
+STATUS:TENTATIVE
+CATEGORIES:CAROUSEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-005@runningsociety.de
+DTSTART:20260508T170000
+DTEND:20260508T160000
+SUMMARY:[STORY] Anmeldungs-Reminder Session · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Countdown-Sticker:
+  In 2h geht's los. Noch 4 Plätze frei.\\nNotes: Format: Foto der Strecke
+  + Countdown + Swipe-Up Link Eversports.\nZiel: Last-Minute Signups\, FOM
+ O
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-006@runningsociety.de
+DTSTART:20260510T100000
+DTEND:20260510T090000
+SUMMARY:[POST] Longrun Crew-Foto München · instagram\, facebook
+DESCRIPTION:Pillar: CREW LIFE\\nStatus: planned\\nHook: 15 km. 8 Uhr morge
+ ns. Die Stadt gehört uns.\\nNotes: Bild: Weitwinkel Crew-Shot an ikonisc
+ her München-Location.\nTagging: Members taggen → UGC + Reach
+STATUS:TENTATIVE
+CATEGORIES:POST
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-007@runningsociety.de
+DTSTART:20260511T063000
+DTEND:20260511T053000
+SUMMARY:[REEL] Member Spotlight · instagram\, tiktok
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: [Name] ist vor 6 M
+ onaten zum ersten Mal gekommen. Heute läuft er die 5er unter 20 Minuten.
+ \\nNotes: Format: 30-Sek Mini-Doku: Member im Training + O-Ton Interview.
+ \nZiel: Identifikation + Retention
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-008@runningsociety.de
+DTSTART:20260512T190000
+DTEND:20260512T180000
+SUMMARY:[STORY] Partner-Feature: Incylence · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Produktfoto Crew t
+ rägt Incylence-Socken beim Training\\nNotes: Format: 3-Slide Story: Prod
+ ukt → Training → Rabattcode.\nTon: keine Werbung-Energie\, echte Nutz
+ ung
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-009@runningsociety.de
+DTSTART:20260513T180000
+DTEND:20260513T170000
+SUMMARY:[POST] Laktatschwelle erklärt · instagram\, facebook\, linkedin
+DESCRIPTION:Pillar: MASTERY\\nStatus: planned\\nHook: Die meisten laufen z
+ u schnell für Easy-Runs und zu langsam für Intervalle.\\nNotes: Format:
+  Info-Grafik: Laktatkurve vereinfacht\, 2 Herzfrequenz-Zonen.\nZiel: Save
+ s\, Expertise-Signal
+STATUS:TENTATIVE
+CATEGORIES:POST
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-010@runningsociety.de
+DTSTART:20260514T063000
+DTEND:20260514T053000
+SUMMARY:[REEL] POV-Run: RS Session Intensity · instagram\, tiktok\, youtu
+ be
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: Erste 1\,5 Sek: He
+ rzfrequenz-Anzeige 178 bpm. Kein Text. Nur Pace und Atem.\\nNotes: Format
+ : GoPro POV\, Laufschuhe im Bild. Musik: Drum & Bass.\nZiel: Viral-Potenz
+ ial durch Intensitäts-Ästhetik
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-011@runningsociety.de
+DTSTART:20260515T170000
+DTEND:20260515T160000
+SUMMARY:[STORY] RS Fight — Morgen früh · instagram
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: Schwarze Slide: "M
+ orgen. 06:30. RS Fight. Wer kommt?" + Poll-Sticker\\nNotes: Format: Minim
+ alistisch\, Poll-Sticker.\nZiel: Commitment-Trigger\, Anmeldungen
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-012@runningsociety.de
+DTSTART:20260517T110000
+DTEND:20260517T100000
+SUMMARY:[REEL] RS Longfight Vlog-Short · instagram\, tiktok\, youtube
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: 15 km in der Grupp
+ e fühlen sich an wie 10. Das ist keine Magie.\\nNotes: Format: 45-60 Sek
+  Vlog-Stil: Start → Km-Checks → Zielankunft → Stimmung.\nSchnitt: r
+ uhig\, documentarisch
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-013@runningsociety.de
+DTSTART:20260518T063000
+DTEND:20260518T053000
+SUMMARY:[REEL] Provokation: "Warum RS?" · instagram\, tiktok
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Das hier ist kein 
+ Laufverein. Kein Fitness-Kurs. Was es ist — sieh selbst.\\nNotes: Forma
+ t: Montage bester Trainingsmomente\, kein Voiceover.\nZiel: Brand-Positio
+ nierung\, virales Statement
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-014@runningsociety.de
+DTSTART:20260519T200000
+DTEND:20260519T190000
+SUMMARY:[STORY] PR-Board Woche 3 · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Wöchentliches For
+ mat: PRs der vergangenen 7 Tage\\nNotes: Format: Identisch zu Woche 1 —
+  Konsistenz macht erkennbares Format.
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-015@runningsociety.de
+DTSTART:20260520T180000
+DTEND:20260520T170000
+SUMMARY:[REEL] Strecken-Tipp München · instagram\, tiktok\, threads
+DESCRIPTION:Pillar: CREW LIFE\\nStatus: planned\\nHook: Diese 8-km-Runde i
+ n München kennst du wahrscheinlich nicht. Wir schon.\\nNotes: Format: La
+ uf-POV mit Map-Ausschnitt (Strava-Screenshot).\nZiel: Lokaler Content\, S
+ aves\, Discovery
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-016@runningsociety.de
+DTSTART:20260521T180000
+DTEND:20260521T170000
+SUMMARY:[POST] Trainingswoche in Zahlen · instagram\, facebook\, linkedin
+ \, threads
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: Diese Woche als Cr
+ ew: 847 km. 34 Sessions. 12 neue PRs.\\nNotes: Format: Daten-Grafik\, dar
+ k Mode\, Strava-Export als Basis.\nZiel: Community-Stolz\, Sharing-Anreiz
+STATUS:TENTATIVE
+CATEGORIES:POST
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-017@runningsociety.de
+DTSTART:20260522T170000
+DTEND:20260522T160000
+SUMMARY:[STORY] Freitagsrun Anmeldung · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Location-Pin Münc
+ hen + Uhrzeit-Sticker + "Link in Bio"\\nNotes: Format: Foto der Start-Loc
+ ation\, Goldene Stunde.\nZiel: Walk-ins und Eversports-Signups
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-018@runningsociety.de
+DTSTART:20260524T103000
+DTEND:20260524T093000
+SUMMARY:[REEL] Crew-Shot Longrun · instagram\, tiktok
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Drohnen-Shot oder 
+ Weitwinkel: Gruppe auf der Strecke\, Stadt im Hintergrund\\nNotes: Format
+ : Kurzes Reel\, kaum Schnitte — ein großer Moment.
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-019@runningsociety.de
+DTSTART:20260525T063000
+DTEND:20260525T053000
+SUMMARY:[REEL] Der schlechteste Trainingstag · instagram\, tiktok
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Heute war schlecht
+ . Wirklich schlecht. Und trotzdem bin ich gekommen.\\nNotes: Format: Raw\
+ , unbearbeitet. Direkt in die Kamera sprechen.\nZiel: Höchste Identifika
+ tionsrate
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-020@runningsociety.de
+DTSTART:20260526T190000
+DTEND:20260526T180000
+SUMMARY:[STORY] Partner-Feature #2 · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Puma oder neuer Pa
+ rtner — "Was wir beim nächsten Race tragen"\\nNotes: Format: Flaches P
+ roduktlayout + 1 Action-Shot.\nTon: kurz\, direkt\, kein Werbesprech.
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-021@runningsociety.de
+DTSTART:20260527T180000
+DTEND:20260527T170000
+SUMMARY:[POST] VO2max erklärt · instagram\, facebook\, linkedin\, thread
+ s
+DESCRIPTION:Pillar: MASTERY\\nStatus: planned\\nHook: Dein VO2max ist dein
+  Leistungs-Deckel. Und er ist nicht fest.\\nNotes: Format: Infografik —
+  Was ist VO2max\, wie verbessern\, welche RS-Einheiten helfen.\nZiel: Sav
+ es\, Expertise
+STATUS:TENTATIVE
+CATEGORIES:POST
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-022@runningsociety.de
+DTSTART:20260528T063000
+DTEND:20260528T053000
+SUMMARY:[REEL] RS Power Speed-Drills · instagram\, tiktok\, youtube
+DESCRIPTION:Pillar: INTENSITY\\nStatus: planned\\nHook: In 4 Wochen 15 Sek
+ /km schneller. Kein Geheimnis. Nur das hier.\\nNotes: Format: 3 Speed-Dri
+ ll-Übungen in 30 Sekunden. Side-by-Side.\nCTA: "Zeig uns deine Drills 
+ — #rssession"\\nDrehtag: 2025-05-15\\nTeam: Magnus Bohlmann\\nDreh-Stat
+ us: offen
+STATUS:TENTATIVE
+CATEGORIES:REEL
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-022-shoot@runningsociety.de
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250515
+SUMMARY:[Dreh] RS Power Speed-Drills
+DESCRIPTION:Für Post: RS Power Speed-Drills\nTeam: Magnus Bohlmann
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-023@runningsociety.de
+DTSTART:20260529T170000
+DTEND:20260529T160000
+SUMMARY:[STORY] Vorschau nächste Woche · instagram
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: 3-Slide Teaser: N
+ ächste Woche Sessions + Event-Hinweis\\nNotes: Format: Wochenvorschau al
+ s Text-Slide\, Daten + Uhrzeiten.\nZiel: Planung für Members\, FOMO
+STATUS:TENTATIVE
+CATEGORIES:STORY
+DTSTAMP:20260502T142604Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rs-024@runningsociety.de
+DTSTART:20260531T110000
+DTEND:20260531T100000
+SUMMARY:[POST] Monatsbilanz: PR-Highlights · instagram\, facebook\, threa
+ ds
+DESCRIPTION:Pillar: COMMUNITY\\nStatus: planned\\nHook: Mai. Was ihr gelei
+ stet habt\, in Zahlen.\\nNotes: Format: Grafik mit Top-PRs des Monats\, G
+ esamtkilometer\, neue Members.\nZiel: Community-Stolz\, Sharing
+STATUS:TENTATIVE
+CATEGORIES:POST
+DTSTAMP:20260502T142604Z
+END:VEVENT
+END:VCALENDAR
